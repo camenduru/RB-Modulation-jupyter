@@ -16,6 +16,9 @@ https://github.com/google/RB-Modulation
 ### 🌐 Page
 https://rb-modulation.github.io/
 
+### 📄 Paper
+https://arxiv.org/abs/2405.17401
+
 ### 🖼 Output
 
 ### 🏢 Sponsor
